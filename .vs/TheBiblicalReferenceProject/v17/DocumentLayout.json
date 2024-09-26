@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Getter_Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheBiblicalReferenceProject\\Getter_Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6025C29D-5350-42D8-9FA2-27438B611D5D}|TheBiblicalReferenceProject\\TheBiblicalReferenceProject.pyproj|C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6025C29D-5350-42D8-9FA2-27438B611D5D}|TheBiblicalReferenceProject\\TheBiblicalReferenceProject.pyproj|solutionrelative:TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6025C29D-5350-42D8-9FA2-27438B611D5D}|TheBiblicalReferenceProject\\TheBiblicalReferenceProject.pyproj|C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Bible_Book_Dictionary.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6025C29D-5350-42D8-9FA2-27438B611D5D}|TheBiblicalReferenceProject\\TheBiblicalReferenceProject.pyproj|solutionrelative:TheBiblicalReferenceProject\\Bible_Book_Dictionary.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Getter_Functions.py",
+              "DocumentMoniker": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Getter_Functions.py",
+              "RelativeDocumentMoniker": "TheBiblicalReferenceProject\\Getter_Functions.py",
+              "ToolTip": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Getter_Functions.py",
+              "RelativeToolTip": "TheBiblicalReferenceProject\\Getter_Functions.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-21T09:59:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bible_Book_Dictionary.py",
+              "DocumentMoniker": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Bible_Book_Dictionary.py",
+              "RelativeDocumentMoniker": "TheBiblicalReferenceProject\\Bible_Book_Dictionary.py",
+              "ToolTip": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\Bible_Book_Dictionary.py",
+              "RelativeToolTip": "TheBiblicalReferenceProject\\Bible_Book_Dictionary.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-16T12:22:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheBiblicalReferenceProject.py",
+              "DocumentMoniker": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py",
+              "RelativeDocumentMoniker": "TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py",
+              "ToolTip": "C:\\Users\\16nat\\source\\repos\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py",
+              "RelativeToolTip": "TheBiblicalReferenceProject\\TheBiblicalReferenceProject.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-16T12:20:48.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
